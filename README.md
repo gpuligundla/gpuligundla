@@ -1,6 +1,10 @@
 # Hi, I'm GK 👋
  
-👨‍💻 **General Software Engineer** | 🎓 **A Pragmatic Engineer loves to solve hard and challenging problems** | 🚀 **Currently exploring Generative AI solutions**
+👨‍💻 **General Software Engineer** | 🎓 **A Pragmatic Engineer loves to solve hard and challenging problems**
+
+
+### Now
+🚀 **Currently exploring Generative AI solutions, focusing on building and scaling intelligent systems for real-world applications.**
 
 ### About Me
  
@@ -10,7 +14,7 @@ Fast forward today, I'm the **first-generation graduate and software engineer** 
 
 I don't tie myself to any specific programming language. I see languages and frameworks as tools to craft the art of programming. I can wear multiple hats 🎩 according to the context while building a product. Thinking like a PM to understand who are clients of this solution, what are their needs, designing systems as an architect for fault tolerance and high availability, and digging into the nuanced things as an engineer to understand the system well and optimize it.
 
-## Skills:
+### Skills:
 
 #### Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -65,11 +69,11 @@ I'm always excited to meet new people, share ideas, and learn from others. Wheth
 ### Problem Solving
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gpuligundla?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
 
-## Connect with me:
+### Connect with me
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/gpuligundla)
-[<img src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=white&color=black" />](https://leetcode.com/u/gpuligundla/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gpuligundla)
+[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>](https://leetcode.com/u/gpuligundla/)
 [<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://x.com/geethakrishna_p)
 </p>
